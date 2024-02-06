@@ -1,4 +1,3 @@
-```markdown
 # Projet d'Indexation de Documents Web
 
 Ce projet implémente la création d'indices non positionnels et positionnels à partir d'un ensemble de documents web récupérés et stockés au format JSON. Il utilise le stemming pour améliorer la pertinence de l'indexation et génère des statistiques descriptives sur le jeu de données.
